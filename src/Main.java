@@ -26,7 +26,7 @@ public class Main {
         panel2.setAlignmentX(JPanel.CENTER_ALIGNMENT);
         panel2.setBorder(javax.swing.BorderFactory.createEmptyBorder(20, 20, 20, 20));
 
-        JLabel title = new JLabel("STUDY TIMER");
+        JLabel title = new JLabel(".. STUDY TIMER ..");
         title.setFont(new Font("Verdana",Font.BOLD,35));
         panel1.add(title);
         JLabel head = new JLabel("Welcome");
